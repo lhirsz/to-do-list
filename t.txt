@@ -1,0 +1,1 @@
+{"you_are_awsome":"yes","status":"ok","token":"a98cc8bd3b19bbf68563780e60a36398","homework":"https:\\github.com\qunabu\junior-recruitment-task
